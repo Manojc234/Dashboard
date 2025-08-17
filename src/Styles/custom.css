@@ -1,0 +1,140 @@
+.dashboard-container {
+  height: 100vh;
+}
+  
+  .bar {
+    width: 150px;
+    min-height: 100vh;
+    background-color: #023b97dc;
+  }
+  
+  .card {
+    border-radius: 10px;
+    background-color: #023b97dc;
+    border: none;
+    
+  }
+  .gradient-card-1:hover{
+    color:#04215f;
+    cursor:pointer;
+  }
+  .card-body:hover{
+    background-color: #04215f;
+    border-radius: 10px;
+    border: none;
+    
+  }
+  .badge {
+    font-size: 0.85rem;
+  }
+  .logo{
+    height: 60px;
+    width:60px;
+    margin-bottom: 40px;
+    margin-left: 30px;
+    border-radius: 40px;
+    cursor:pointer;
+  }
+  .logo1{
+    height: 30px;
+    width:30px;
+    border-radius: 40px;
+    cursor:pointer;
+    
+  }
+  .px-3{
+    background-color: #023b97dc;
+    height: 80px;
+    
+  }
+  .content{
+    cursor: pointer;
+    margin-top: 5px;
+    
+  }
+  .content:hover{
+    background-color:#04215f ;
+
+  }
+  .userprofile{
+    margin-left: 900px;
+    cursor: pointer;
+  }
+  .logo2{
+    height: 20px;
+    border-radius: 40px;
+    margin-top: -1px;
+
+
+  }
+  .logo4{
+    height: 20px;
+    border-radius: 40px;
+
+
+  }
+  .card-header{
+    background-color: #023b97dc;
+  }
+  .card-header:hover
+  {
+    background-color: #04215f;
+  }
+.submenu{
+  position:absolute;
+  left:100%;
+  top:10%;
+  background: #023b97dc;
+  color:white;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+  min-width: 200px;
+  z-index: 50;
+}
+.submenu-item{
+  padding:12px 6px;
+  cursor:pointer;
+}
+.sub
+.submenu-item:hover{
+  background-color:#023b97dc;
+}
+.b{
+  color:black;
+  background-color:#f1f5ff;
+  border:none;
+}
+.b:hover{
+  color:#f1f5ff;
+  background-color:#295caddc;
+
+}.modern-service-table{
+  width:100%;
+  border-collapse: seperate;
+  border-spacing: 0 10px;
+}
+.modern-service-table thead{
+  background-color: #023b97dc;
+  color:white;
+}
+.modern-service-table thead th{
+  padding:12px;
+  text-align: left;
+}
+.modern-service-table tbody tr{
+  background-color: #fff;
+  box-shadow: 0px 2px 6px rgba(0,0,0,0.05);
+  border-radius: 8px;
+}
+
+
+.Q{
+  background-color: #f1f5ff;
+  border: none;
+  color:black;
+}
+.brand-name{
+  position:relative;
+  top:-35px;
+  left:10px;
+}
